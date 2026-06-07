@@ -148,6 +148,8 @@ STATUS:
 AREA MONITORADA
 ```
 
+![Foto exemplo](exemplo1.png)
+
 ou
 
 ```text
