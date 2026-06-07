@@ -1,3 +1,0 @@
-requiryment.txt
-opencv-python
-numpy
