@@ -1,5 +1,3 @@
-# GS-SpaceConnect
-
 # 🚀 SpaceConnect - Monitoramento Inteligente de Astronautas
 
 ## 👨‍💻 Integrantes
